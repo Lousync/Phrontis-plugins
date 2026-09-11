@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-09-02",
-  "registryVersion": 21,
+  "registryVersion": 22,
   "plugins": [
     {
       "id": "knowbase.password-generator",
@@ -31,18 +31,18 @@
     {
       "id": "knowbase.themes-collection",
       "name": "主题合集",
-      "version": "1.4.1",
-      "description": "四套精选主题一键装:GitHub Dark / GitHub Light / 护眼米白纸感 / 赛博朋克夜城",
+      "version": "1.5.0",
+      "description": "八套精选主题一键装:GitHub Dark / GitHub Light / 护眼米白纸感 / 赛博朋克夜城 / 手绘线条 v2(纸面+石墨线框+抖动圆角+偏移铅笔阴影+波浪链接) / 水墨(宣纸淡墨+抖动圆角+墨线标题+墨晕阴影) / 水墨·夜(墨池底反白墨线)。安装后到 设置 → 外观 切换。",
       "author": "Knowbase",
-      "downloadUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/themes-collection-1.4.1.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/Lousync/Phrontis-plugins/main/plugins/themes-collection-1.5.0.zip",
       "iconUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/themes-collection-icon.svg",
       "category": "外观",
       "riskLevel": "S",
       "contributions": [
         "theme"
       ],
-      "size": 2091,
-      "updatedAt": "2026-08-27"
+      "size": 2538,
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "knowbase.pomodoro-presets-pro",
