@@ -33,4 +33,4 @@ Phrontis（Windows 本地知识管理工具）的官方插件仓库。
 
 ## 关联项目
 
-- 应用本体：[Lousync/Knowbase](https://github.com/Lousync/Knowbase)
+- 应用本体：[Lousync/Phrontis](https://github.com/Lousync/Phrontis)
