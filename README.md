@@ -1,6 +1,6 @@
-# Knowbase 插件市场
+# Phrontis 插件市场
 
-Knowbase Programmer Edition（Windows 本地知识管理工具）的官方插件仓库。
+Phrontis（Windows 本地知识管理工具）的官方插件仓库。
 
 ## 这是什么
 
