@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-11",
-  "registryVersion": 24,
+  "updatedAt": "2026-09-27",
+  "registryVersion": 25,
   "plugins": [
     {
       "id": "knowbase.password-generator",
@@ -31,18 +31,18 @@
     {
       "id": "knowbase.themes-collection",
       "name": "主题合集",
-      "version": "1.5.0",
-      "description": "八套精选主题一键装:GitHub Dark / GitHub Light / 护眼米白纸感 / 赛博朋克夜城 / 手绘线条 v2(纸面+石墨线框+抖动圆角+偏移铅笔阴影+波浪链接) / 水墨(宣纸淡墨+抖动圆角+墨线标题+墨晕阴影) / 水墨·夜(墨池底反白墨线)。安装后到 设置 → 外观 切换。",
+      "version": "1.6.0",
+      "description": "十二套精选主题一键装:GitHub Dark / GitHub Light / 护眼米白纸感 / 赛博朋克夜城 / OpenCode 终端灰 / 手绘线条 v2(纸面+石墨线框+抖动圆角+偏移铅笔阴影+波浪链接) / 水墨(宣纸淡墨+抖动圆角+墨线标题+墨晕阴影) / 水墨·夜(墨池底反白墨线) / 四季包:春·嫩芽、夏·骄阳、秋·金秋、冬·初雪(含季节感背景渐变)。安装后到 设置 → 外观 切换。",
       "author": "Knowbase",
-      "downloadUrl": "https://raw.githubusercontent.com/Lousync/Phrontis-plugins/main/plugins/themes-collection-1.5.0.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/Lousync/Phrontis-plugins/main/plugins/themes-collection-1.6.0.zip",
       "iconUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/themes-collection-icon.svg",
       "category": "外观",
       "riskLevel": "S",
       "contributions": [
         "theme"
       ],
-      "size": 2538,
-      "updatedAt": "2026-09-11"
+      "size": 3416,
+      "updatedAt": "2026-09-27"
     },
     {
       "id": "knowbase.pomodoro-presets-pro",
