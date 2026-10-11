@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-10-11",
-  "registryVersion": 27,
+  "registryVersion": 28,
   "plugins": [
     {
       "id": "knowbase.password-generator",
@@ -91,7 +91,8 @@
         "theme"
       ],
       "size": 21057,
-      "updatedAt": "2026-10-11"
+      "updatedAt": "2026-10-11",
+      "engineVersion": ">=3.5.0"
     }
   ]
 }
