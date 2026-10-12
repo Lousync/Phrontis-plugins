@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-10-11",
-  "registryVersion": 29,
+  "registryVersion": 30,
   "plugins": [
     {
       "id": "knowbase.password-generator",
@@ -79,10 +79,10 @@
     {
       "id": "crab-mascot",
       "name": "Claude 小螃蟹",
-      "version": "0.3.1",
+      "version": "0.3.2",
       "description": "AI 输入区像素蟹吉祥物 + Claude 暖色主题。非官方个人项目，与 Anthropic 无隶属关系；螃蟹形象（Clawd）著作权属 Anthropic，仅供个人自用，权利人要求即下架。需应用 >= 3.5.0。",
       "author": "本地",
-      "downloadUrl": "https://raw.githubusercontent.com/Lousync/Phrontis-plugins/main/plugins/crab-mascot-0.3.1.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/Lousync/Phrontis-plugins/main/plugins/crab-mascot-0.3.2.zip",
       "iconUrl": "https://raw.githubusercontent.com/Lousync/Phrontis-plugins/main/plugins/crab-mascot-icon.svg",
       "category": "外观",
       "riskLevel": "S",
@@ -90,8 +90,8 @@
         "mascot",
         "theme"
       ],
-      "size": 21057,
-      "updatedAt": "2026-10-11",
+      "size": 21552,
+      "updatedAt": "2026-10-12",
       "engineVersion": ">=3.5.0"
     },
     {
