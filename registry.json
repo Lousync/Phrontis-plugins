@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-10-11",
-  "registryVersion": 28,
+  "registryVersion": 29,
   "plugins": [
     {
       "id": "knowbase.password-generator",
@@ -93,6 +93,22 @@
       "size": 21057,
       "updatedAt": "2026-10-11",
       "engineVersion": ">=3.5.0"
+    },
+    {
+      "id": "knowbase.mascot-desk-companions",
+      "name": "书桌伙伴 · AI 吉祥物",
+      "version": "1.0.0",
+      "description": "三只像素小伙伴（纸灵 / 小墨 / 枭枭）站在 AI 输入卡上沿，随 AI 活动切换动作；到 设置 → AI 助手 → 吉祥物 里选一只。",
+      "author": "Knowbase",
+      "downloadUrl": "https://raw.githubusercontent.com/Lousync/Phrontis-plugins/main/plugins/knowbase.mascot-desk-companions-1.0.0.zip",
+      "iconUrl": "https://raw.githubusercontent.com/Lousync/Phrontis-plugins/main/plugins/knowbase.mascot-desk-companions-icon.svg",
+      "category": "外观",
+      "riskLevel": "B",
+      "contributions": [
+        "mascot"
+      ],
+      "size": 64984,
+      "updatedAt": "2026-10-12"
     }
   ]
 }
